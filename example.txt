@@ -1,1 +1,2 @@
 Conflict branch changes
+Feature 1 changes
